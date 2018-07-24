@@ -855,14 +855,6 @@ a {
     font-weight: bold
 }
 
-h3 {
-    color: #000000;
-    font-family: "Raleway";
-    font-weight: 100;
-    font-size: 64px;
-    margin-top: 45px
-}
-
 .carousel.slide .carousel-control {
     display: flex;
     align-items: center;
@@ -1040,10 +1032,6 @@ h3 {
 .quem-somos {
     font-family: "Raleway", "Helvetica Neue", Helvetica, sans-serif;
     font-weight: 100;
-}
-
-h2 {
-    font-size: 52px !important
 }
 
 .box-nic {
